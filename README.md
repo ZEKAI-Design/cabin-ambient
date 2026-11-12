@@ -8,7 +8,7 @@
 2. 在 **Color** 左栏选择 Comfort 实际报告的分区或灯条，例如 **Dash Line**、**Dash Decor** 或 **Seats**。
 3. 在中栏选 **Static**、**Breathe**、**Rainbow** 或 **Colour loop**，在右栏用色盘或 HEX/RGB 设定颜色，再点 **Apply to this zone**。各区独立运行，例如 Dash Line 可以保持静态紫色，同时 Dash Decor 循环多种颜色。
 4. 要让整车使用统一设置，选 **Whole car · all lights**，再点 **Apply same effect to all**。这会替换当前场景里的逐区设置。之后仍可对任何分区单独应用效果。
-5. 点 **Save entire car as preset** 保存当前整车场景。可保存八套，在 **Presets** 中用 **Apply entire preset** 恢复整套配置，也可编辑或删除。
+5. 点 **Save entire car as preset** 读取 Comfort 当前生效的分区颜色，并保存 Cabin Ambient 正在运行的灯效。已有的逐区静态颜色也可以直接保存。可保存八套，在 **Presets** 中用 **Apply entire preset** 恢复整套配置，也可编辑或删除。
 
 **Rainbow** 和 **Colour loop** 都支持 **Smooth fade** 和 **Direct switch**。周期最长 300 秒，Colour loop 最多支持 16 种颜色。颜色较多时，最短周期会相应加长。脚窝分区仍会忽略已知的误报标记。
 

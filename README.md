@@ -10,6 +10,8 @@
 4. 要让整车使用统一设置，选 **Whole car · all lights**，再点 **Apply same effect to all**。这会替换当前场景里的逐区设置。之后仍可对任何分区单独应用效果。
 5. 点 **Save entire car as preset** 读取 Comfort 当前生效的分区颜色，并保存 Cabin Ambient 正在运行的灯效。已有的逐区静态颜色也可以直接保存。可保存八套，在 **Presets** 中用 **Apply entire preset** 恢复整套配置，也可编辑或删除。
 
+要让部分区域同步，点左栏 **Multi-select**，勾选要一起调整的区域。设好颜色、灯效和周期后点 **Apply to N selected**。这批区域共用同一个灯效起点，其他区域继续原有灯效。整车预设会保留同步关系。
+
 **Rainbow** 和 **Colour loop** 都支持 **Smooth fade** 和 **Direct switch**。周期最长 300 秒，Colour loop 最多支持 16 种颜色。颜色较多时，最短周期会相应加长。脚窝分区仍会忽略已知的误报标记。
 
 已应用场景保存在车机，退出界面后后台继续运行，车机唤醒且 Comfort 可用后恢复。**Use BMW colours** 把灯光控制交回原厂，同时保留 App 中的场景供之后重新应用。

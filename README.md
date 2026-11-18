@@ -14,6 +14,8 @@
 
 **Rainbow** 和 **Colour loop** 都支持 **Smooth fade** 和 **Direct switch**。周期最长 300 秒，Colour loop 最多支持 16 种颜色。颜色较多时，最短周期会相应加长。脚窝分区仍会忽略已知的误报标记。
 
+**Rainbow** 从当前 HEX/RGB 颜色开始，循环只改变色相，保留该区所选颜色的饱和度和数值。**Colour value** 随各区的颜色单独保存，同一批多选后应用的区域共用本次设置。灰色、白色和黑色的饱和度为零，在 Rainbow 中会保持原色。
+
 **Door handles & pockets** 是原来的 **Doors Other**，包括 Comfort 在这一分区检测到的门把手和储物槽灯。被识别为车顶氛围灯的模块可从 **Roof ambient lights** 调整。
 
 每区的 **Brightness** 可调到 150%，100% 以上会提高 RGB 的中间通道值。**Max output · all** 会让当前由 Comfort 控制的灯具使用 100% 的固定输出。关闭此选项或点 **Use BMW colours** 会恢复之前的灯具输出设定。
